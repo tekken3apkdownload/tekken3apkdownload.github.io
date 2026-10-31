@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tekken3apkdownload.github.io/sitemap.xml
